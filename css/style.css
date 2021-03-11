@@ -1,0 +1,135 @@
+body{
+	margin: 0px;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+h1{
+	font-size: 5.625rem;
+	margin-top: 0px;
+	font-family: 'Sacramento', cursive;
+	color: #66BFBF;
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5rem;
+	color: #66BFBF;
+	font-weight: normal;
+	margin-top: 0px;
+}
+h3{
+	font-family: 'Montserrat', sans-serif;
+	color: #11999E;
+}
+hr{
+	
+	border-style:  none;
+	border-top-style: dotted;
+	width: 3%;
+	color: #c8d4d4;
+	border-width: 5px;
+
+
+
+}
+a{
+	color: #11999E;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration:none;
+}
+a:hover {
+	color: #EAF6F6;
+}
+p{
+	color: #11999E;
+}
+.top-container{
+	position: relative;
+	padding-top: 100px;
+	background-color: #caeaf4;
+}
+
+.contact-meassage{
+	width: 40p%;
+	margin:40px auto 60px;
+}
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+}
+	
+.pro{
+	text-decoration: underline;
+
+}
+.bottom-cld{ 
+	position: absolute;
+	bottom: 300px;
+	left: 300px;
+}
+.top-cld{
+	position: absolute;
+	top:50px;
+	right: 300px;
+}
+.prof{
+width: 200px;
+}
+
+.skill1{
+	width:100px;
+	float: left;
+	margin-right:30px;
+	border-radius: 50%;
+}
+.skill2{
+	width:100px;
+	float:right;
+	margin-left: 30px;
+	border-radius: 50%;
+}
+.profile{
+	color: #40514E;
+}
+.bottom-container{
+	margin-top:40px;
+	background-color: #66BFBF;
+	padding: 50px 0 20px;
+
+}
+
+
+.footer-link{
+	margin:10px;
+}
+.copy-right{
+	color: #EAF6F6;
+	font-size: 0.75rem;
+	padding: 20px 0;
+}
